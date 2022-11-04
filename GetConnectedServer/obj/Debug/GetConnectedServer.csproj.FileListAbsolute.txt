@@ -1,0 +1,19 @@
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe.config
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.pdb
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csprojResolveAssemblyReference.cache
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.exe
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.pdb
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.dll
+c:\C# Projects\GetConnected\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.pdb
+C:\Users\wassabi\Desktop\pg\P2Pchat-master\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe.config
+C:\Users\wassabi\Desktop\pg\P2Pchat-master\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.exe
+C:\Users\wassabi\Desktop\pg\P2Pchat-master\GetConnectedServer\GetConnectedServer\bin\Debug\GetConnectedServer.pdb
+C:\Users\wassabi\Desktop\pg\P2Pchat-master\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.dll
+C:\Users\wassabi\Desktop\pg\P2Pchat-master\GetConnectedServer\GetConnectedServer\bin\Debug\Shared.pdb
+C:\Users\wassabi\Desktop\pg\P2Pchat-master\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csproj.AssemblyReference.cache
+C:\Users\wassabi\Desktop\pg\P2Pchat-master\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\wassabi\Desktop\pg\P2Pchat-master\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csproj.CoreCompileInputs.cache
+C:\Users\wassabi\Desktop\pg\P2Pchat-master\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.csproj.CopyComplete
+C:\Users\wassabi\Desktop\pg\P2Pchat-master\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.exe
+C:\Users\wassabi\Desktop\pg\P2Pchat-master\GetConnectedServer\GetConnectedServer\obj\Debug\GetConnectedServer.pdb
